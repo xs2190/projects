@@ -1,0 +1,3 @@
+Commands:
+
+dotnet new -> shows some installed templates to create a new project
